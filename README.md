@@ -1,5 +1,3 @@
-# CapsDGCN-POEM
-
 # Politeness and Emotion Detection in Dialogues for Mental Health Counselling and Legal Aid
 
 This repository contains the dataset and code for our paper titled [A multi-task learning framework for politeness and emotion detection in dialogues for mental health counselling and legal aid](https://www.sciencedirect.com/science/article/abs/pii/S0957417423005274)
