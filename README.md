@@ -3,7 +3,7 @@
 This repository contains the dataset and code for our paper titled [A multi-task learning framework for politeness and emotion detection in dialogues for mental health counselling and legal aid](https://www.sciencedirect.com/science/article/abs/pii/S0957417423005274)
 
 ## Code
-The folder CapsDGCN contains the code for the proposed Caps-DGCN architecture.
+The folder CapsDGCN contains the code for the proposed CapsDGCN architecture.
 
 ## POEM Dataset Request Access
 
